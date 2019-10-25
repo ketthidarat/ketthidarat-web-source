@@ -1,0 +1,10 @@
+{
+    "properties": {
+        "image":    { "type": "text" },
+        "email":    { "type": "text" },
+        "name":     { "type": "text" },
+        "position": { "type": "text" },
+        "ext":      { "type": "text" },
+        "office":   { "type": "text" }
+    }
+}
